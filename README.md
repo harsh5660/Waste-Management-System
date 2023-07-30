@@ -10,3 +10,8 @@ The ‘Waste Management System’ is a web application aimed to provide a digita
 3. people can take different ideas regarding recycling waste through this website.
 
 Complaining about the waste problem encountered every day by the municipality is a hefty process and waste management aims to make this process easier. With a simple handheld device with access to the internet, users can use this platform to complain about their concerns to the municipality. The automated system will redirect the complains. The municipality admins on the receiving side can acknowledge the reports which let the users whether their complaints are addressed or not.
+<img width="960" alt="Screenshot 2023-07-30 091508" src="https://github.com/harsh5660/Waste-Management-System/assets/84218738/7be2b535-5e52-4476-84a5-1710f24c883c">
+<img width="960" alt="Screenshot 2023-07-30 091543" src="https://github.com/harsh5660/Waste-Management-System/assets/84218738/4f05a642-76f8-4995-a502-544ce434cf48">
+<img width="960" alt="Screenshot 2023-07-30 091556" src="https://github.com/harsh5660/Waste-Management-System/a<img width="960" alt="Screenshot 2023-07-30 091638" src="https://github.com/harsh5660/Waste-Management-System/assets/84218738/be90ad9d-c113-4299-a3ab-d0a9afaf03a7">
+ssets/84218738/6f7114d0-31cd-4a3c-b91f-4174d1a3b495">
+<img width="960" alt="Screenshot 2023-07-30 091651" src="https://github.com/harsh5660/Waste-Management-System/assets/84218738/f3d3d835-e1b3-4576-8c66-39eb3e73f0c2">
